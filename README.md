@@ -1,6 +1,11 @@
 # One Night and More
 Demo for Windows presented at the [Millenium demoparty](https://www.demoparty.net/milleniumparty2001/) in October 2001.
 
+![One Night and More quick overview](onam.gif)
+
+**Important**: The overview above is missing the computed visual effects going over the pictures.
+And yes, there is a young lady in there, but it was pretty common back in those days.
+
 ## What is a demo ?
 A demoparty is an event that gathers demosceners and other computer enthusiasts to partake in competitions called Demoscene compos of demos (short audio-visual presentations of computer art). A typical demoparty is a non-stop event spanning a weekend, providing the visitors a lot of time to socialize. The competing works, at least those in the most important competitions, are usually shown at night, using a video projector and loudspeakers. The most important competition is usually the demo compo.
 
