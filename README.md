@@ -4,7 +4,8 @@ Demo for Windows presented at the [Millenium demoparty](https://www.demoparty.ne
 ![One Night and More quick overview](onam.gif)
 
 **Important**: The overview above is missing the computed visual effects going over the pictures.
-And yes, there is a young lady in there, but it was pretty common back in those days.
+
+**Disclaimer**: Yes, there is a young lady in there, but it was pretty common back in those days. Including that kind of pictures was considered innocuous back then. And I was in my early 20s. It's clear that a cultural shift happened over the past 20 years and what was OK in 2001 might be considered bad taste in 2020.
 
 ## What is a demo ?
 A demoparty is an event that gathers demosceners and other computer enthusiasts to partake in competitions called Demoscene compos of demos (short audio-visual presentations of computer art). A typical demoparty is a non-stop event spanning a weekend, providing the visitors a lot of time to socialize. The competing works, at least those in the most important competitions, are usually shown at night, using a video projector and loudspeakers. The most important competition is usually the demo compo.
