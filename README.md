@@ -36,7 +36,7 @@ I did my best to convey a sense of strangeness and magic, the kind of feeling th
 ### The graphics
 My long time friend Christophe Martin aka *Pops* took care of most of it during the demo party. It might seem silly, but it's actually common practice to keep working on your production until (and sometimes past) the deadline.
 
-The base material was sourced part in our own pictures archive, part on the Internet. The following photos were shot around the year 2000 at [Le Zenith de Nancy](https://goo.gl/maps/g3isXqBw6fhWhQjWA) in France using one of the first Canon digital camera (bought in 1997 by Christophe's brother):
+The base material was sourced part in our own pictures archive, part on the Internet. The following photos were shot during the year 2001 at [Le Zenith de Nancy](https://goo.gl/maps/g3isXqBw6fhWhQjWA) in France using one of the first Canon digital camera (bought in 1997 by Christophe's brother):
 
 ![One Night and More - Screen 1](screen01.png)
 ![One Night and More - Screen 2](screen02.png)
